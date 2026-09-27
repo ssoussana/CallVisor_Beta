@@ -11,7 +11,7 @@ under any open-source definition is granted.
 1. GRANT OF LICENSE (TRIAL)
    Licensor grants each individual user a limited, non-exclusive,
    non-transferable license to install and use compiled, official releases
-   of the Software for a trial period of fourteen (14) days from first
+   of the Software for a trial period of thirty (30) days from first
    installation, solely for personal evaluation purposes.
 
 2. PURCHASE REQUIRED AFTER TRIAL
@@ -21,7 +21,15 @@ under any open-source definition is granted.
    available free of charge indefinitely at its sole discretion; all other
    features require payment as described at the point of sale.
 
-3. RESTRICTIONS
+3. BETA TESTING LICENSES
+   Licensor may, at its sole discretion, issue time-limited license keys to
+   individuals participating in beta testing of the Software, valid for a
+   duration set by Licensor at the time of issuance. Such keys are provided
+   for evaluation and feedback purposes and may expire, be extended, be
+   converted to a permanent license, or be revoked at any time, in each
+   case at Licensor's sole discretion.
+
+4. RESTRICTIONS
    Except as expressly permitted in writing by Licensor, you may not:
    a. Copy, modify, merge, publish, distribute, sublicense, sell, rent, or
       lease the Software or any portion of it;
@@ -32,7 +40,7 @@ under any open-source definition is granted.
       notices contained in the Software;
    d. Use the Software to build a competing product or service.
 
-4. ACCESS TO SOURCE CODE
+5. ACCESS TO SOURCE CODE
    Access to this repository, where granted, is provided solely for
    transparency, collaboration on development with Licensor's express
    permission, or evaluation purposes. Such access does not itself grant
@@ -40,29 +48,36 @@ under any open-source definition is granted.
    what is expressly stated in this license. Licensor may revoke repository
    access at any time and for any reason.
 
-5. OWNERSHIP
+6. OWNERSHIP
    Licensor retains all right, title, and interest in and to the Software,
    including all intellectual property rights therein. No rights are
    granted to you other than as expressly set forth in this license.
 
-6. NO WARRANTY
+7. BETA SOFTWARE DISCLAIMER
+   The Software, or specific releases of it, may be designated as "Beta."
+   Beta releases are pre-release software provided for evaluation purposes,
+   may contain defects or instability, may change substantially (including
+   removal of features) without notice, and are not guaranteed to receive
+   continued support, updates, or data compatibility with future releases.
+
+8. NO WARRANTY
    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
    OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
 
-7. LIMITATION OF LIABILITY
+9. LIMITATION OF LIABILITY
    IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
    FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
    DEALINGS IN THE SOFTWARE, INCLUDING BUT NOT LIMITED TO DAMAGES ARISING
    FROM USE WHILE OPERATING A VEHICLE, SIMULATOR, OR OTHER EQUIPMENT.
 
-8. TERMINATION
+10. TERMINATION
    This license terminates automatically if you violate any of its terms.
    Upon termination, you must cease all use of the Software and destroy all
    copies in your possession.
 
-9. CHANGES TO THIS LICENSE
+11. CHANGES TO THIS LICENSE
    Licensor may update the terms of this license for future releases of the
    Software. Continued use of a version constitutes acceptance of the terms
    distributed with that version.
